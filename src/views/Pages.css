@@ -1,0 +1,31 @@
+.main-content {
+  padding: 20px;
+}
+
+.genre-display {
+  display: flex;
+  align-items: center;
+}
+
+.genre-display p {
+  margin-bottom: 0;
+}
+
+.right-side {
+  display: flex;
+  text-align: right;
+  float: right;
+}
+
+.genre-button {
+  background-color: dodgerblue;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 10px;
+}
+
+.main-content h3 {
+  margin-bottom: 15px;
+}
